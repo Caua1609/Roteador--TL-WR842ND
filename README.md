@@ -1,4 +1,4 @@
-# Roteador--TL-WR842ND
+# Roteador- TL-WR842ND
 **O Tp-link TL-WR842ND é um roteador sem fio N300, ideal para residêndcias ou pequenos escritórios que necessitam de uma rede que tenha uma boa estabilidade e com recuros que sejam avançados, ele oferece altas taxas de transmição de 300Mbps que garantem streaming de mídia HD livre de interrupções, jogos on-line, chamadas pelo Skype ou a rápida transferência de arquivos de um dispositivo para o outro.**
 
 
