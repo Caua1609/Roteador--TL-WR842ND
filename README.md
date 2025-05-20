@@ -1,0 +1,1 @@
+# Roteador--TL-WR842ND
