@@ -75,5 +75,5 @@ Em seguida, ligue o roteador TP-Link TL-WR842ND. As luzes do roteador devem come
 ***
 
 ### Conclusão 
-Se você seguiu corretamente o passo a passo espero que tenha dado tudo certo, caso dê algum erro, volte ao passo a passo e veja se você seguiu coreetamente o que foi solicitado
+Se você seguiu corretamente o passo a passo espero que tenha dado tudo certo, caso dê algum erro, volte ao passo a passo e veja se você seguiu corretamente o que foi solicitado
 ![Descrição da Imagem](https://i.ytimg.com/vi/rkey0Bo1IoQ/maxresdefault.jpg)
